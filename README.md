@@ -1,5 +1,5 @@
 # Cyber Insecurity in the Wild
-Presentation about security issues I've personally witnessed I gave Oct 3rd for the [Dev Edmonton](https://devedmonton.com/) [Javascript](https://exchangejs.com/), Ruby, and Python [Meetup](https://www.meetup.com/edmontonunlimited/events/303144996/).  You can find the slides [here](Cyber-Insecurity-in-the-Wild.pdf).
+A presentation about security issues I've personally witnessed that I gave on October 3rd, 2024 for the [Dev Edmonton](https://devedmonton.com/) [Javascript](https://exchangejs.com/), Ruby, and Python [Meetup](https://www.meetup.com/edmontonunlimited/events/303144996/).  You can find the slides [here](Cyber-Insecurity-in-the-Wild.pdf) and a video of the presentation [here](https://youtu.be/ciMa2m6iKbY).
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/saturdaymp?label=Sponsors&logo=githubsponsors&labelColor=3C444C)](https://github.com/sponsors/saturdaymp)
 
